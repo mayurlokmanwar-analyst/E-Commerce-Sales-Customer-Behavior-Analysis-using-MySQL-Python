@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=220&section=header&text=E-Commerce%20Sales%20Intelligence&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%9B%92%20Python%20+%20MySQL%20%E2%80%A2%20Relational%20ETL%20%E2%80%A2%20Retention%20Analytics&descSize=18&descAlignY=60&descColor=a9d6e5&animation=fadeIn" />
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis?color=4682b4&style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis?color=a9d6e5&style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-using-MySQL-Python?color=4682b4&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-using-MySQL-Python?color=a9d6e5&style=for-the-badge)
 <br/>
 
-[📊 View Full Python Notebook](https://github.com/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis/blob/main/MySQL+Python_E-commerce_Project.ipynb)
+[📊 View Full Python Notebook](https://github.com/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-using-MySQL-Python/blob/main/MySQL+Python_E-commerce_Project.ipynb)
 
 </div>
 
