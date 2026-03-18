@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=220&section=header&text=E-Commerce%20Sales%20Intelligence&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%9B%92%20Python%20+%20MySQL%20%E2%80%A2%20Retention%20Analytics%20%E2%80%A2%20Customer%20Behavior&descSize=18&descAlignY=60&descColor=a9d6e5&animation=fadeIn" />
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis?color=4682b4&style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis?color=a9d6e5&style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-Dashboard?color=4682b4&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-Dashboard?color=a9d6e5&style=for-the-badge)
 <br/>
 
-[📊 View Python Notebook](https://github.com/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis/blob/main/MySQL+Python_E-commerce_Project.ipynb)
+[📊 View Python Notebook](https://github.com/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis-Dashboard/blob/main/MySQL+Python_E-commerce_Project.ipynb)
 
 </div>
 
@@ -40,29 +40,20 @@ This project bridges the gap between raw transactional data and executive-level 
 
 ---
 
-## 📸 Project Preview
-*Visualizing regional distribution and high-value customer spending patterns.*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/E-Commerce-Sales-Customer-Behavior-Analysis/main/E-Commerce%20Sales%20&%20Customer%20Behavior%20Analysis%20Dashboard.png" alt="E-Commerce Analysis Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
-</div>
-
----
-
 ## 💡 Strategic Business Insights
 * **Urban Hubs:** **São Paulo (SP)** and **Rio de Janeiro (RJ)** dominate the market, with São Paulo holding the highest customer concentration by a significant margin.
 * **Category Revenue:** High-grossing categories like **Bed Table Bath** and **Health/Beauty** drive the bulk of the platform's revenue.
-* **Payment Behavior:** Over **30% of orders** utilize installment plans, indicating a consumer preference for flexible payment options on higher-value items.
+* **Payment Behavior:** Over **30% of orders** utilize installment plans, indicating a strong consumer preference for flexible payment options on higher-value items.
 * **Retention Metric:** Identified a core segment of repeat buyers, with a detailed analysis of customers who make follow-up purchases within a **6-month window**.
-* **High-Value Spenders:** Used Window Functions (`DENSE_RANK`) to isolate the top 3 spending customers per year for targeted VIP loyalty programs.
+* **High-Value Spenders:** Used Advanced SQL Window Functions (`DENSE_RANK`) to isolate the top 3 spending customers per year for targeted VIP loyalty programs.
 
 ---
 
 ## 📁 Repository Structure
 ```text
 E-Commerce-Behavior-Analysis/
-├── 📂 Data/                    # Raw CSV files (Customers, Orders, Payments, etc.)
-├── 📄 MySQL Queries Required.sql # Optimized SQL script for analytical KPIs
-├── 📄 MySQL+Python_Project.ipynb # Full ETL and Visualization Notebook
-├── 📄 Analysis_Report.pdf      # Executive summary and technical findings
-└── 📄 README.md                # Project Documentation
+├── 📂 Data/                         # Raw CSV datasets
+├── 📄 MySQL Queries Required.sql      # Optimized SQL script for analytical KPIs
+├── 📄 MySQL+Python_Project.ipynb     # Full ETL and Visualization Notebook
+├── 📄 Ecommerce_Project_Analysis_Report.pdf # Executive summary and technical findings
+└── 📄 README.md                      # Project Documentation
